@@ -39,6 +39,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   </kbd>
   <br>

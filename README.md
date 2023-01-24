@@ -21,6 +21,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sequelize/sequelize-original.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>

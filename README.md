@@ -22,6 +22,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sequelize/sequelize-original.svg" />
+    <img widht="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -30,6 +31,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>

@@ -40,15 +40,6 @@
   <br>
   <br>
   <kbd>
-   <kbd>
-    <kbd>Big Data</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784132-cd39abda-9ed7-4081-b1fc-eaf3e6082b58.png" />
-    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784245-e80e671b-10aa-49cc-9508-e8222a0b2137.svg" />
-    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784260-49c68ae3-d575-4f5b-b944-3f41c18e6815.png" />
-    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784309-e85783d0-4216-43e5-bf20-41f7fff7cfba.png" />
-  </kbd>
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
@@ -63,7 +54,6 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
   </kbd>
   </kbd>
 </p>

@@ -122,13 +122,6 @@ Here are some ideas to get you started:
   </kbd>
 </p>
 
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
-</p>
-
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -138,6 +131,8 @@ Here are some ideas to get you started:
 <h2 align="center">Now Playing</h2>
  <a href ="https://open.spotify.com/user/beucuhu08lxtlsk4rouai3246">
 <p align="center">
+  
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/beucuhu08lxtlsk4rouai3246)
 
 <img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" />
 

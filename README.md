@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Daniel Wong</h1>
+## Hi 👋, I'm Daniel Wong
 <h2>I'm a Full Stack Software Engineer experienced in JavaScript and Python frameworks.</h2>
 
 - 📍 I'm based in New York City

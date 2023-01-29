@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently grinding leetcode 😵‍💫
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: <a href="mailto:daniel.kachun.wong@ygmail.com">Email</a> <ahref="https://www.linkedin.com/in/daniel-kachun-wong/">LinkedIn</a>
+- 📫 How to reach me: <a href="mailto:daniel.kachun.wong@ygmail.com">Email</a> <a href="https://www.linkedin.com/in/daniel-kachun-wong/">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Macro Photographer, Avid Cyclist, also an MRI Specialist
 

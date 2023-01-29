@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋, I'm Daniel Wong</h1>
 
 - 🔭 I’m currently grinding leetcode 😵‍💫
 - 🌱 I’m currently learning TypeScript

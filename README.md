@@ -3,7 +3,7 @@
 
 - 📍 I'm based in New York City
 - 🔭 I’m currently grinding leetcode 😵‍💫
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m in the process of learning TypeScript
 - 📫 How to best reach me: <a href="mailto:daniel.kachun.wong@ygmail.com">Email</a> <a href="https://www.linkedin.com/in/daniel-kachun-wong/">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Macro Photographer, Avid Cyclist, MRI Specialist

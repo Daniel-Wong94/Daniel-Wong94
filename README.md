@@ -38,4 +38,7 @@
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) -->
+
+## GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-wong94&show_icons=false&card_width=400&theme=prussian&layout=compact)<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wong94&layout=compact&theme=prussian"/>

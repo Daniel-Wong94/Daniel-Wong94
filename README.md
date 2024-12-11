@@ -2,7 +2,7 @@
 ### I'm a Full Stack Software Engineer experienced in JavaScript and Python frameworks.
 
 - 📍 I'm based in New York City
-- 🔭 I’m currently grinding leetcode 😵‍💫
+- 🔭 I currently have: More than 1 year of professional experience
 - 🌱 I’m in the process of learning TypeScript
 - 📫 How to best reach me: <a href="mailto:daniel.kachun.wong@ygmail.com">Email</a> <a href="https://www.linkedin.com/in/daniel-kachun-wong/">LinkedIn</a>
 - 😄 Pronouns: He/Him

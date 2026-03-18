@@ -2,11 +2,10 @@
 ### I'm a Full Stack Software Engineer experienced in JavaScript and Python frameworks.
 
 - 📍 I'm based in New York City
-- 🔭 I currently have: More than 1 year of professional experience
-- 🌱 I’m in the process of learning TypeScript
+- 🔭 I currently have: More >3 years of professional experience
 - 📫 How to best reach me: <a href="mailto:daniel.kachun.wong@ygmail.com">Email</a> <a href="https://www.linkedin.com/in/daniel-kachun-wong/">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- ⚡ Interests: Macro Photographer, Avid Cyclist, MRI Specialist
+- ⚡ Interests: Macro Photographer, Avid Cyclist, Marathon Training
 - 💼 Portfolio: <a href="https://danielwong.io">Click Here</a>
 
 ### 💻 Technologies:
